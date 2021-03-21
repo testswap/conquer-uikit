@@ -53,14 +53,14 @@ export const links = [
         label: "Github",
         href: "https://github.com/conquerswap/",
       },
-      /**
       {
         label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
+        href: "https://conquerswap.gitbook.io/conquer-swap/",
       },
+      /**
       {
         label: "Blog",
-        href: "https://viking-swap.medium.com/",
+        href: "https://conquer-swap.medium.com/",
       },
       */
     ],
@@ -74,7 +74,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://t.me/ConquerSwap",
+        href: "https://t.me/ConquerswapDiscussion",
       },
       {
         label: "Announcements",
