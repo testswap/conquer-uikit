@@ -2051,7 +2051,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "http://t.me/ConquerSwap",
+                href: "https://t.me/ConquerswapDiscussion",
             },
             {
                 label: "Announcements",
